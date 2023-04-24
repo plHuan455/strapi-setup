@@ -28,7 +28,7 @@
   },
   "servers": [
     {
-      "url": "http://localhost:1337/api",
+      "url": "https://strapi-cms-1x72.onrender.com/api",
       "description": "Development server"
     }
   ],
